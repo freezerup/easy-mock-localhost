@@ -18,7 +18,7 @@
 * install --> sudo make install
 * start --> redis-server 
 
-##2. 本地运行
+## 2. 本地运行
 * clone --> git clone https://github.com/easy-mock/easy-mock.git
 * install --> npm install
 * start --> npm run dev
